@@ -50,3 +50,5 @@ Memento Pattern
 To know more about each design pattern refer following:
 
 https://www.journaldev.com/1827/java-design-patterns-example-tutorial
+
+https://www.geeksforgeeks.org/software-design-patterns/
